@@ -205,24 +205,3 @@ Paths below are relative to `mosfet_forecasting/`.
 | `results/run_metadata.json` | Recorded environment and experiment configuration |
 | `engineering_cases/case_summary.json` | Numerical case-study summaries |
 | `engineering_cases/Engineering_Judgment.md` | Interpretation and engineering follow-up |
-
-## ⚠️ Limitations and Future Work
-
-- Confirm physical-device identities and relationships between runs.
-- Verify measurement units, scaling, and calibration.
-- Evaluate operating transitions using eligibility rules available at prediction time.
-- Validate the selected approach on independent data.
-- Examine uncertainty calibration and group-specific errors.
-- Establish defensible failure endpoints before developing RUL models.
-
-## Contributions and AI Assistance
-
-AI tools assisted implementation, analysis, visualization, and documentation. The project owner executed the primary forecasting pipeline and iteratively reviewed the presentation and interpretation.
-
-Successful execution alone does not establish complete correctness. Specific independently authored components and personally repeated verification steps should be documented before claiming independent implementation or validation.
-
-## Acknowledgments
-
-The original experimental dataset is credited to J. R. Celaya, A. Saxena, S. Saha, and K. Goebel, NASA Prognostics Data Repository, NASA Ames Research Center.
-
-This project presents a secondary analysis of those measurements.
