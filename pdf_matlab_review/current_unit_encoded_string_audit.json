@@ -1,0 +1,532 @@
+[
+  {
+    "file": "Test_10_run_1.m",
+    "character_arrays": 9279,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_2.m",
+    "character_arrays": 8735,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_3.m",
+    "character_arrays": 8581,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_4.m",
+    "character_arrays": 8647,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_5.m",
+    "character_arrays": 47321,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_6.m",
+    "character_arrays": 63163,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_10_run_7.m",
+    "character_arrays": 61140,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_1.m",
+    "character_arrays": 9489,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_2.m",
+    "character_arrays": 9247,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_3.m",
+    "character_arrays": 9099,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_4.m",
+    "character_arrays": 8887,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_5.m",
+    "character_arrays": 45985,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_6.m",
+    "character_arrays": 62026,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_11_run_7.m",
+    "character_arrays": 62285,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_1.m",
+    "character_arrays": 9318,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_2.m",
+    "character_arrays": 9269,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_3.m",
+    "character_arrays": 9044,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_4.m",
+    "character_arrays": 8907,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_5.m",
+    "character_arrays": 45721,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_6.m",
+    "character_arrays": 61843,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_12_run_7.m",
+    "character_arrays": 56488,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_1 1 (error setting up this run).m",
+    "character_arrays": 562,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_1.m",
+    "character_arrays": 9605,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_2.m",
+    "character_arrays": 9030,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_3.m",
+    "character_arrays": 8825,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_4.m",
+    "character_arrays": 7562,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_13_run_5.m",
+    "character_arrays": 1055,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_1.m",
+    "character_arrays": 9376,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_2.m",
+    "character_arrays": 9252,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_3.m",
+    "character_arrays": 9198,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_4.m",
+    "character_arrays": 9105,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_5.m",
+    "character_arrays": 47123,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_6.m",
+    "character_arrays": 61705,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_14_run_7.m",
+    "character_arrays": 19546,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_15_run_1.m",
+    "character_arrays": 10551,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_16_run_1.m",
+    "character_arrays": 10386,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_17_run_1.m",
+    "character_arrays": 10283,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_18_run_1.m",
+    "character_arrays": 10322,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_18_run_2.m",
+    "character_arrays": 10277,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_19_run_1.m",
+    "character_arrays": 40641,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_19_run_2.m",
+    "character_arrays": 502,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_1_run_1.m",
+    "character_arrays": 2114,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_1_run_2.m",
+    "character_arrays": 4630,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_20_run_1.m",
+    "character_arrays": 43287,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_20_run_2.m",
+    "character_arrays": 41988,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_21_run_1.m",
+    "character_arrays": 9493,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_22_run_1.m",
+    "character_arrays": 16042,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_23_run_1.m",
+    "character_arrays": 57029,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_23_run_2.m",
+    "character_arrays": 1202,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_24_run_1.m",
+    "character_arrays": 1132,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_24_run_2.m",
+    "character_arrays": 55747,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_25_run_1.m",
+    "character_arrays": 60720,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_25_run_2.m",
+    "character_arrays": 57745,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_25_run_3.m",
+    "character_arrays": 47097,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_25_run_4.m",
+    "character_arrays": 60,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_26_run_1.m",
+    "character_arrays": 89454,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_27_run_1.m",
+    "character_arrays": 5201,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_27_run_2.m",
+    "character_arrays": 5212,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_27_run_3.m",
+    "character_arrays": 5170,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_27_run_4.m",
+    "character_arrays": 16011,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_27_run_5.m",
+    "character_arrays": 16044,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_28_run_1.m",
+    "character_arrays": 9966,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_28_run_2.m",
+    "character_arrays": 11098,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_29_run_1.m",
+    "character_arrays": 91445,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_2_run_1.m",
+    "character_arrays": 3391,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_2_run_2.m",
+    "character_arrays": 1287,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_2_run_3.m",
+    "character_arrays": 4899,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_30_run_1.m",
+    "character_arrays": 113794,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_31_run_1.m",
+    "character_arrays": 118779,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_32_run_1.m",
+    "character_arrays": 87479,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_33_run_1.m",
+    "character_arrays": 105969,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_34_run_1.m",
+    "character_arrays": 125077,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_34_run_2.m",
+    "character_arrays": 125894,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_34_run_3.m",
+    "character_arrays": 120486,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_35_run_1.m",
+    "character_arrays": 91183,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_36_run_1.m",
+    "character_arrays": 102808,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_37_run_1.m",
+    "character_arrays": 118798,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_38_run_1.m",
+    "character_arrays": 86133,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_39_run_1.m",
+    "character_arrays": 13744,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_3_run_1.m",
+    "character_arrays": 9303,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_40_run_1.m",
+    "character_arrays": 3918,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_40_run_2.m",
+    "character_arrays": 8945,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_41_run_1.m",
+    "character_arrays": 117612,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_42_run_1.m",
+    "character_arrays": 20686,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_4_run_1.m",
+    "character_arrays": 9605,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_4_run_2.m",
+    "character_arrays": 1187,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_5_run_1.m",
+    "character_arrays": 9622,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_5_run_2.m",
+    "character_arrays": 422,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_6_run_1.m",
+    "character_arrays": 14510,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_6_run_2.m",
+    "character_arrays": 40675,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_7_run_1.m",
+    "character_arrays": 44296,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_1.m",
+    "character_arrays": 9586,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_2.m",
+    "character_arrays": 9568,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_3.m",
+    "character_arrays": 9290,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_4.m",
+    "character_arrays": 9196,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_5.m",
+    "character_arrays": 48139,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_6.m",
+    "character_arrays": 59716,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_8_run_7.m",
+    "character_arrays": 65262,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_1.m",
+    "character_arrays": 9257,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_2.m",
+    "character_arrays": 9381,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_3.m",
+    "character_arrays": 9194,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_4.m",
+    "character_arrays": 9072,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_5.m",
+    "character_arrays": 45017,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_6.m",
+    "character_arrays": 61011,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "Test_9_run_7.m",
+    "character_arrays": 61940,
+    "non_timestamp_strings": {}
+  },
+  {
+    "file": "test_rampup.m",
+    "character_arrays": 13131,
+    "non_timestamp_strings": {}
+  }
+]

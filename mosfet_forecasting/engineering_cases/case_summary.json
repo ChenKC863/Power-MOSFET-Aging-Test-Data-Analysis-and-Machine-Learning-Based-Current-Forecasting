@@ -1,0 +1,90 @@
+[
+  {
+    "group": "Test_27",
+    "n": 111,
+    "ridge_mae": 0.012704821133235199,
+    "persistence_mae": 0.016828594683783796,
+    "bias": -0.0052104255466927756,
+    "underpredicted": 69,
+    "fold": 5,
+    "file": "Test_27_run_4.mat",
+    "run_n": 46,
+    "run_ridge_mae": 0.0120406307399922,
+    "run_persistence_mae": 0.016457122886956516,
+    "peak_target_start": "2010-08-05 12:05:00",
+    "peak_target_end": "2010-08-05 12:06:00",
+    "peak_error": 0.03591126319458615,
+    "peak_target": 1.7084910533,
+    "peak_ridge": 1.744402316494586,
+    "peak_persistence": 1.7398412719,
+    "block_start": "2010-08-05 11:30:00",
+    "block_end": "2010-08-05 12:16:00",
+    "block_n": 46,
+    "block_mae": 0.0120406307399922,
+    "settings": {
+      "lowTemp": 229.0,
+      "highTemp": 230.0,
+      "shutdownTemp": 240.0,
+      "gateVoltage": 10.0,
+      "supplyVoltage": 5.0,
+      "switchingFrequency": 1000.0,
+      "dutyCycle": 40.0
+    },
+    "package_temperature_range": [
+      124.8551923125307,
+      125.64976783799096
+    ],
+    "measured_supply_range": [
+      5.608859274985212,
+      5.61166877293728
+    ],
+    "low_fraction_range": [
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "group": "Test_20",
+    "n": 132,
+    "ridge_mae": 0.07221420791263479,
+    "persistence_mae": 0.031172133366666663,
+    "bias": -0.06126200933193864,
+    "underpredicted": 129,
+    "fold": 2,
+    "file": "Test_20_run_1.mat",
+    "run_n": 70,
+    "run_ridge_mae": 0.07475006896297405,
+    "run_persistence_mae": 0.03474585786571428,
+    "peak_target_start": "2010-07-20 10:53:00",
+    "peak_target_end": "2010-07-20 10:54:00",
+    "peak_error": 0.4969386540663474,
+    "peak_target": 1.7950945729,
+    "peak_ridge": 2.2920332269663475,
+    "peak_persistence": 2.356144084,
+    "block_start": "2010-07-20 10:03:00",
+    "block_end": "2010-07-20 10:54:00",
+    "block_n": 51,
+    "block_mae": 0.07595862026823835,
+    "settings": {
+      "lowTemp": 209.0,
+      "highTemp": 210.0,
+      "shutdownTemp": 230.0,
+      "gateVoltage": 10.0,
+      "supplyVoltage": 5.0,
+      "switchingFrequency": 1000.0,
+      "dutyCycle": 40.0
+    },
+    "package_temperature_range": [
+      117.06540611285132,
+      121.95278993535605
+    ],
+    "measured_supply_range": [
+      5.613230323019595,
+      5.61744769382043
+    ],
+    "low_fraction_range": [
+      0.013333333333333334,
+      0.10810810810810811
+    ]
+  }
+]

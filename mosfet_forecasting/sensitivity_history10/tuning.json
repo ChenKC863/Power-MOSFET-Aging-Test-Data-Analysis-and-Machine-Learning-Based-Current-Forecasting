@@ -1,0 +1,122 @@
+[
+  {
+    "fold": 1,
+    "model": "Ridge",
+    "parameters": {
+      "ridge__alpha": 1.0
+    },
+    "inner_MAE": 0.020644372605826095
+  },
+  {
+    "fold": 1,
+    "model": "RandomForest",
+    "parameters": {
+      "min_samples_leaf": 20
+    },
+    "inner_MAE": 0.02560509532513172
+  },
+  {
+    "fold": 1,
+    "model": "HistGradientBoosting",
+    "parameters": {
+      "max_leaf_nodes": 7
+    },
+    "inner_MAE": 0.03406039176655813
+  },
+  {
+    "fold": 2,
+    "model": "Ridge",
+    "parameters": {
+      "ridge__alpha": 100.0
+    },
+    "inner_MAE": 0.02184548857436631
+  },
+  {
+    "fold": 2,
+    "model": "RandomForest",
+    "parameters": {
+      "min_samples_leaf": 20
+    },
+    "inner_MAE": 0.027838009710791024
+  },
+  {
+    "fold": 2,
+    "model": "HistGradientBoosting",
+    "parameters": {
+      "max_leaf_nodes": 7
+    },
+    "inner_MAE": 0.0411502350541356
+  },
+  {
+    "fold": 3,
+    "model": "Ridge",
+    "parameters": {
+      "ridge__alpha": 100.0
+    },
+    "inner_MAE": 0.02046354714654045
+  },
+  {
+    "fold": 3,
+    "model": "RandomForest",
+    "parameters": {
+      "min_samples_leaf": 5
+    },
+    "inner_MAE": 0.04119261082848052
+  },
+  {
+    "fold": 3,
+    "model": "HistGradientBoosting",
+    "parameters": {
+      "max_leaf_nodes": 7
+    },
+    "inner_MAE": 0.058868176393051676
+  },
+  {
+    "fold": 4,
+    "model": "Ridge",
+    "parameters": {
+      "ridge__alpha": 100.0
+    },
+    "inner_MAE": 0.019065488988091153
+  },
+  {
+    "fold": 4,
+    "model": "RandomForest",
+    "parameters": {
+      "min_samples_leaf": 20
+    },
+    "inner_MAE": 0.02931192580358838
+  },
+  {
+    "fold": 4,
+    "model": "HistGradientBoosting",
+    "parameters": {
+      "max_leaf_nodes": 15
+    },
+    "inner_MAE": 0.03565039122936129
+  },
+  {
+    "fold": 5,
+    "model": "Ridge",
+    "parameters": {
+      "ridge__alpha": 100.0
+    },
+    "inner_MAE": 0.0199843974504148
+  },
+  {
+    "fold": 5,
+    "model": "RandomForest",
+    "parameters": {
+      "min_samples_leaf": 20
+    },
+    "inner_MAE": 0.025295040340522185
+  },
+  {
+    "fold": 5,
+    "model": "HistGradientBoosting",
+    "parameters": {
+      "max_leaf_nodes": 7
+    },
+    "inner_MAE": 0.03298775830172845
+  }
+]

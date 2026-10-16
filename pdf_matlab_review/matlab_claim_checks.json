@@ -1,0 +1,117 @@
+{
+  "Test_1_run_1.m": {
+    "flange_min": -2279.6912713418483,
+    "flange_max": -2278.2249914060662
+  },
+  "Test_1_run_2.m": {
+    "flange_min": -2272.9072153774696,
+    "flange_max": -2271.462545770551
+  },
+  "Test_20_run_1.m": {
+    "flange_min": 25.048969096412847,
+    "flange_max": 223.14560375508532,
+    "10:52": {
+      "current_mean": 2.356778170413342,
+      "package_mean": 121.4552394953899
+    },
+    "10:53": {
+      "current_mean": 1.7950945728868593,
+      "package_mean": 117.06540611285135
+    },
+    "controller_values": {
+      "lowTemp": [
+        39.0,
+        99.0,
+        149.0,
+        199.0,
+        209.0,
+        239.0
+      ],
+      "highTemp": [
+        40.0,
+        100.0,
+        150.0,
+        200.0,
+        210.0,
+        240.0
+      ],
+      "gateVoltage": [
+        10.0
+      ],
+      "supplyVoltage": [
+        5.0
+      ],
+      "dutyCycle": [
+        40.0
+      ]
+    }
+  },
+  "Test_27_run_4.m": {
+    "flange_min": 27.184802494083616,
+    "flange_max": 231.92407861689867,
+    "12:05": {
+      "current_mean": 1.708491053276021,
+      "package_mean": 125.46436691624871
+    },
+    "controller_values": {
+      "lowTemp": [
+        39.0,
+        99.0,
+        149.0,
+        199.0,
+        229.0
+      ],
+      "highTemp": [
+        40.0,
+        100.0,
+        150.0,
+        200.0,
+        230.0
+      ],
+      "gateVoltage": [
+        10.0
+      ],
+      "supplyVoltage": [
+        5.0
+      ],
+      "dutyCycle": [
+        40.0
+      ]
+    }
+  },
+  "Test_38_run_1.m": {
+    "flange_min": 23.707949527057327,
+    "flange_max": 252.3676052989797,
+    "high_current_medians": [
+      2.5474422473125093,
+      2.3775506452637174
+    ],
+    "longest_low_seconds": 12611.339,
+    "longest_low_start": "2010-08-23 18:23:46.326000",
+    "longest_low_end": "2010-08-23 21:53:57.665000",
+    "low_elapsed_hours": [
+      1.3896480555555557,
+      4.892797777777778
+    ]
+  },
+  "Test_41_run_1.m": {
+    "flange_min": 28.784574086411403,
+    "flange_max": 254.11107878800289,
+    "high_current_medians": [
+      2.6706123221063574,
+      2.6719502945564724
+    ],
+    "longest_low_seconds": 18.336,
+    "longest_low_start": "2010-08-24 22:28:10.246000",
+    "longest_low_end": "2010-08-24 22:28:28.582000",
+    "low_elapsed_hours": [
+      0.003989722222222222,
+      0.009083055555555554
+    ]
+  },
+  "inventory": {
+    "m_files": 106,
+    "summed_span_hours": 214.41631916666663,
+    "steady_records": 1906566
+  }
+}

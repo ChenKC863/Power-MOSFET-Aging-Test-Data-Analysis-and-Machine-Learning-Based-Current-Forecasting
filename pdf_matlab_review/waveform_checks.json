@@ -1,0 +1,74 @@
+{
+  "Test_31_run_1": {
+    "transient_records": 33980,
+    "parsed_gate_waveforms": 33980,
+    "constant_gate_waveforms": 33973
+  },
+  "Test_33_run_1": {
+    "transient_records": 38356,
+    "parsed_gate_waveforms": 38356,
+    "constant_gate_waveforms": 38350
+  },
+  "Test_2_run_2": {
+    "transient_records": 151,
+    "empty_gate_records": 1,
+    "sample_counts": [
+      5000
+    ],
+    "dt_values": [
+      2e-07,
+      1.0
+    ]
+  },
+  "Test_40_run_2": {
+    "transient_records": 4260,
+    "empty_gate_records": 1,
+    "sample_counts": [
+      500,
+      501,
+      502
+    ],
+    "dt_values": [
+      4e-08,
+      9.95e-08,
+      1e-07,
+      1.935e-07,
+      1.98e-07,
+      1.985e-07,
+      1.995e-07,
+      2e-07,
+      3.96e-07,
+      4e-07,
+      9.68e-07,
+      9.76e-07,
+      9.84e-07,
+      9.92e-07,
+      9.96e-07,
+      1e-06,
+      1.984e-06,
+      1.992e-06,
+      2e-06,
+      1.0
+    ]
+  },
+  "Test_6_run_1": {
+    "transient_records": 4297,
+    "empty_gate_records": 0,
+    "sample_counts": [
+      5000
+    ],
+    "dt_values": [
+      2e-07
+    ]
+  },
+  "Test_6_run_2": {
+    "transient_records": 20085,
+    "empty_gate_records": 0,
+    "sample_counts": [
+      1000
+    ],
+    "dt_values": [
+      1e-06
+    ]
+  }
+}

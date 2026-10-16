@@ -1,0 +1,15 @@
+{
+  "mode": "exploratory_Test_number_groups_NOT_verified_devices",
+  "target": "future complete one-minute mean drainCurrent, raw recorded units",
+  "history_minutes": 10,
+  "horizon_bin_start_minutes": 5,
+  "target_completion_minutes_after_prediction": 5,
+  "examples": 8821,
+  "files_with_examples": 82,
+  "groups": 33,
+  "python": "3.10.6",
+  "sklearn": "1.7.2",
+  "min_bin_count": 10,
+  "without_settings": false,
+  "selection": "Retrospectively restrict history-to-target span to stable known commanded settings and eligible bins; conditional forecast, not an unrestricted deployment simulation."
+}
