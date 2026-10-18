@@ -181,6 +181,24 @@ Test 20 illustrates systematic Ridge underprediction and an abrupt current chang
 
 These are post-hoc illustrations of existing held-out results. They do not establish a physical failure cause.
 
+#### Representative Forecasting Comparisons
+
+Five forecasting methods for selected examples from Test_20_run_1 and Test_27_run_4, respectively.
+
+<img width="574" height="263" alt="image" src="https://github.com/user-attachments/assets/73948609-9d23-48bf-bcec-492be281ceff" />
+
+<img width="575" height="265" alt="image" src="https://github.com/user-attachments/assets/8cc66031-59c1-4636-aa98-bfcfbc530cdd" />
+
+**Figure 3. Five-method forecasts within the first 60 minutes of two recordings.**
+
+Predictions are plotted at the end of their target minute. Blank regions contain no evaluated forecasting examples. The two panels use different vertical scales.
+
+The displayed curves show model predictions; observed target means are not included in this version. The MAE values shown above the panels summarize all eligible examples in the corresponding Test-number group, not only the displayed first-hour examples.
+
+The cases were selected retrospectively to illustrate contrasting group-level Ridge errors. They do not establish failure mechanisms or remaining useful life.
+
+[Existing discussion of Test 20’s underprediction, abrupt change, and follow-up measurement checks]
+
 ## 🚀 Reproduction
 
 ### 1. Prepare the Original Dataset
