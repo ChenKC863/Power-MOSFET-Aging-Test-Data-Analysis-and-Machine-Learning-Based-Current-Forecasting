@@ -127,6 +127,16 @@ Additional Histogram Gradient Boosting models estimated the 5th and 95th conditi
 
 Coverage varied across groups. These intervals belong to the quantile Gradient Boosting models; they are not uncertainty bounds around Ridge predictions or estimates of remaining-life risk.
 
+Selected group-level results illustrate the variation:
+
+| Test group | Examples | Inside interval | Coverage | Mean interval width |
+|---|---:|---:|---:|---:|
+| Test 20 | 132 | 132 | 100.0% | 0.92424 |
+| Test 27 | 111 | 43 | 38.7% | 0.16925 |
+
+Widths are expressed in the recorded current scale.
+Coverage and width should be assessed together. These statistics cover all eligible examples in each group, not only the first-hour plots. Overlapping examples are dependent.
+
 ## 🔍 Engineering Case Studies
 
 Among groups with at least 100 evaluated examples, the case study selects the lowest and highest Ridge MAE.
