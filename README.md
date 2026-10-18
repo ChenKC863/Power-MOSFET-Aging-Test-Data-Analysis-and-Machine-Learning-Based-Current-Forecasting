@@ -68,7 +68,7 @@ Current values are shown on the original recorded scale; physical units and cali
 
 #### Pipeline Architecture
 
-![Current forecasting pipeline covering data screening, feature construction, grouped validation, and evaluation](docs/images/current_forecasting_architecture.png)
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c90fb3-b549-46cd-98ef-22d032ad16de" />
 
 **Figure 2. Implemented current-forecasting pipeline.**
 The workflow screens MATLAB measurements, constructs eligible one-minute
