@@ -71,14 +71,9 @@ Current values are shown on the original recorded scale; physical units and cali
 <img width="1189" height="543" alt="image" src="https://github.com/user-attachments/assets/2d4b749c-a6da-4cd6-80e3-d93608093442" />
 
 **Figure 2. Implemented current-forecasting pipeline.**
-The workflow screens MATLAB measurements, constructs eligible one-minute
-bins and five-minute historical features, and evaluates forecasts using
-nested cross-validation grouped by Test number.
+The workflow screens MATLAB measurements, constructs eligible one-minute bins and five-minute historical features, and evaluates forecasts using nested cross-validation grouped by Test number.
 
-Eligibility is determined retrospectively using recorded settings
-through the target interval. Forecasting features use historical
-measurements only. Test-number groups are not confirmed independent
-physical devices.
+Eligibility is determined retrospectively using recorded settings through the target interval. Forecasting features use historical measurements only. Test-number groups are not confirmed independent physical devices.
 
 ### Prediction Target
 
@@ -187,7 +182,7 @@ Five forecasting methods for selected examples from Test_20_run_1 and Test_27_ru
 
 <img width="574" height="263" alt="image" src="https://github.com/user-attachments/assets/73948609-9d23-48bf-bcec-492be281ceff" />
 
-<img width="575" height="265" alt="image" src="https://github.com/user-attachments/assets/8cc66031-59c1-4636-aa98-bfcfbc530cdd" />
+<img width="574" height="263" alt="image" src="https://github.com/user-attachments/assets/8cc66031-59c1-4636-aa98-bfcfbc530cdd" />
 
 **Figure 3. Five-method forecasts within the first 60 minutes of two recordings.**
 
