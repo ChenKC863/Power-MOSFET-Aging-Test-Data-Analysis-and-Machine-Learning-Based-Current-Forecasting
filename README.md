@@ -40,6 +40,17 @@ The primary forecasting experiment excludes the explicitly named setup-error fil
 
 The pipeline reads the original `.mat` files using SciPy. Converted `.m` files are not required.
 
+#### What the Original Measurements Look Like
+`Test_20_run_1.mat`
+<img width="535" height="306" alt="image" src="https://github.com/user-attachments/assets/1a3113bc-d17f-49f0-a6bb-a4b2fa14e958" />
+`Test_27_run_4.mat`
+<img width="535" height="306" alt="image" src="https://github.com/user-attachments/assets/6a403049-d1eb-4d70-ad0c-75b71ad66691" />
+**Figure 1. Original current readings before forecasting feature construction.**
+The plots show individual readings from `Test_20_run_1.mat` and `Test_27_run_4.mat` over the first 60 minutes, using the same time and recorded-current scales. No averaging or operating-condition filtering is applied in this illustration.
+
+Both recordings contain higher-current and low-current readings. These patterns alone do not establish physical degradation or failure.
+Current values are shown on the original recorded scale; physical units and calibration remain unverified but at least the same unit scale.
+
 ## ⚙️ Forecasting Workflow
 
 1. Read steady-state current, timestamps, and controller records.
