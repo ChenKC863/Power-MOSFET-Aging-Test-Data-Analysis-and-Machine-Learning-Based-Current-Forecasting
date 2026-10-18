@@ -196,7 +196,7 @@ With the primary result files and original MAT measurements available:
 & '.\.venv-mosfet\Scripts\python.exe' '.\mosfet_forecasting\engineering_cases\export_white_charts.py'
 ```
 
-These commands generate case-analysis outputs, a Markdown report, and white-background JPG charts. They do not rebuild PowerPoint.
+These commands generate case-analysis outputs, a Markdown report, and white-background JPG charts.
 
 The written case interpretation contains statements specific to the current results and must be reviewed if the data or selected cases change.
 
