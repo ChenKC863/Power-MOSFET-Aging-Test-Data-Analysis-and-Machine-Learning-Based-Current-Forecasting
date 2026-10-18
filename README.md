@@ -48,6 +48,7 @@ The pipeline reads the original `.mat` files using SciPy. Converted `.m` files a
 `Test_27_run_4.mat`
 
 <img width="535" height="306" alt="image" src="https://github.com/user-attachments/assets/6a403049-d1eb-4d70-ad0c-75b71ad66691" />
+
 **Figure 1. Original current readings before forecasting feature construction.**
 The plots show individual readings from `Test_20_run_1.mat` and `Test_27_run_4.mat` over the first 60 minutes, using the same time and recorded-current scales. No averaging or operating-condition filtering is applied in this illustration.
 
