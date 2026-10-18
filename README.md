@@ -66,6 +66,20 @@ Current values are shown on the original recorded scale; physical units and cali
 7. Export predictions, evaluation metrics, and prediction intervals.
 8. Examine selected prediction errors alongside original measurement context.
 
+#### Pipeline Architecture
+
+![Current forecasting pipeline covering data screening, feature construction, grouped validation, and evaluation](docs/images/current_forecasting_architecture.png)
+
+**Figure 2. Implemented current-forecasting pipeline.**
+The workflow screens MATLAB measurements, constructs eligible one-minute
+bins and five-minute historical features, and evaluates forecasts using
+nested cross-validation grouped by Test number.
+
+Eligibility is determined retrospectively using recorded settings
+through the target interval. Forecasting features use historical
+measurements only. Test-number groups are not confirmed independent
+physical devices.
+
 ### Prediction Target
 
 The target is the mean of valid steady-state current readings within one future minute, including low-current states.
