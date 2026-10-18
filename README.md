@@ -68,7 +68,7 @@ Current values are shown on the original recorded scale; physical units and cali
 
 #### Pipeline Architecture
 
-<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c90fb3-b549-46cd-98ef-22d032ad16de" />
+<img width="1189" height="543" alt="image" src="https://github.com/user-attachments/assets/2d4b749c-a6da-4cd6-80e3-d93608093442" />
 
 **Figure 2. Implemented current-forecasting pipeline.**
 The workflow screens MATLAB measurements, constructs eligible one-minute
