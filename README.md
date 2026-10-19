@@ -192,8 +192,6 @@ The displayed curves show model predictions; observed target means are not inclu
 
 The cases were selected retrospectively to illustrate contrasting group-level Ridge errors. They do not establish failure mechanisms or remaining useful life.
 
-[Existing discussion of Test 20’s underprediction, abrupt change, and follow-up measurement checks]
-
 ## 🚀 Reproduction
 
 ### 1. Prepare the Original Dataset
